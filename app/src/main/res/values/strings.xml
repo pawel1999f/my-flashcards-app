@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFlashcardsApp</string>
+    <string name="last_saved_date" />
+</resources>
