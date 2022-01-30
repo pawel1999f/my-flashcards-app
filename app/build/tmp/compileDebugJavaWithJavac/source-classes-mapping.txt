@@ -1,0 +1,52 @@
+com/example/myflashcardsapp/Flashcard.java
+ com.example.myflashcardsapp.Flashcard
+com/example/myflashcardsapp/Sentence.java
+ com.example.myflashcardsapp.Sentence
+ com.example.myflashcardsapp.StandardSentence
+ com.example.myflashcardsapp.StandardSentence$1
+com/example/myflashcardsapp/HTMLUnitAdapter.java
+ com.example.myflashcardsapp.HTMLGetter
+ com.example.myflashcardsapp.HTMLUnitAdapter
+ com.example.myflashcardsapp.HTMLUnitAdapter$1
+com/example/myflashcardsapp/FlashcardsDbHelper.java
+ com.example.myflashcardsapp.FlashcardsContract
+ com.example.myflashcardsapp.FlashcardsContract$FlashcardsColumns
+ com.example.myflashcardsapp.FlashcardsContract$SentencesColumns
+ com.example.myflashcardsapp.FlashcardsDbHelper
+com/example/myflashcardsapp/EditFlashcardActivity.java
+ com.example.myflashcardsapp.EditFlashcardActivity
+com/example/myflashcardsapp/Command.java
+ com.example.myflashcardsapp.Command
+ com.example.myflashcardsapp.ConfirmCommand
+com/example/myflashcardsapp/MainActivity.java
+ com.example.myflashcardsapp.MainActivity
+com/example/myflashcardsapp/Handler.java
+ com.example.myflashcardsapp.BaseHandler
+ com.example.myflashcardsapp.Handler
+ com.example.myflashcardsapp.HandlerEdit
+ com.example.myflashcardsapp.HandlerEmpty
+ com.example.myflashcardsapp.HandlerNew
+com/example/myflashcardsapp/State.java
+ com.example.myflashcardsapp.State
+com/example/myflashcardsapp/BuildConfig.java
+ com.example.myflashcardsapp.BuildConfig
+com/example/myflashcardsapp/StorageStrategy.java
+ com.example.myflashcardsapp.ReadStrategy
+ com.example.myflashcardsapp.StorageContext
+ com.example.myflashcardsapp.StorageStrategy
+ com.example.myflashcardsapp.WriteStrategy
+com/example/myflashcardsapp/ButtonDescriber.java
+ com.example.myflashcardsapp.ButtonDescriber
+com/example/myflashcardsapp/DatabaseFacade.java
+ com.example.myflashcardsapp.DatabaseFacade
+com/example/myflashcardsapp/MyApplication.java
+ com.example.myflashcardsapp.MyApplication
+com/example/myflashcardsapp/FlashcardFileHelper.java
+ com.example.myflashcardsapp.FlashcardFileHelper
+com/example/myflashcardsapp/Iterator.java
+ com.example.myflashcardsapp.FlashcardsIterator
+ com.example.myflashcardsapp.FlashcardsRandomIterator
+com/example/myflashcardsapp/LearningActivity.java
+ com.example.myflashcardsapp.LearningActivity
+ com.example.myflashcardsapp.LearningActivity$1
+ com.example.myflashcardsapp.LearningActivity$2

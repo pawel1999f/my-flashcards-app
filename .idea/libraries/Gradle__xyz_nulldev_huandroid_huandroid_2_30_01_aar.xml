@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: xyz.nulldev.huandroid:huandroid:2.30.01@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/02f97ce71074f98eb47cf72296091f06/jetified-huandroid-2.30.01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/02f97ce71074f98eb47cf72296091f06/jetified-huandroid-2.30.01/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/02f97ce71074f98eb47cf72296091f06/jetified-huandroid-2.30.01/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/xyz.nulldev.huandroid/huandroid/2.30.01/71bde814f99801c738539cbf2fd8a28ca1edcc75/huandroid-2.30.01-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/xyz.nulldev.huandroid/huandroid/2.30.01/30d74ce3708e1e4fbfda45c650386ee1638447a5/huandroid-2.30.01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
