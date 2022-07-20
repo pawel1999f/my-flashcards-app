@@ -21,4 +21,7 @@ Wykorzystane wzorce projektowe:
 7. Polecenie - wysłanie polecenia "zatwierdzenia" edycji fiszki
 8. Łańcuch zobowiązań - przechodzi po kolejnych krokach sprawdzeń przy zakończeniu edycji fiszki
 
+![alt text](https://github.com/pawel1999f/my-flashcards-app/blob/main/screenshots/main_menu.PNG?raw=true)
+![alt text](https://github.com/pawel1999f/my-flashcards-app/blob/main/screenshots/hidden.PNG?raw=true)
+![alt text](https://github.com/pawel1999f/my-flashcards-app/blob/main/screenshots/shown.PNG?raw=true)
 ![alt text](https://github.com/pawel1999f/my-flashcards-app/blob/main/screenshots/adding.PNG?raw=true)
